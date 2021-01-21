@@ -1,2 +1,2 @@
-# -devops-aula05
+# Jogo Da Velha
 Cinthia Queiroz Cardoso
